@@ -1,2 +1,2 @@
-# django-starter
-The basic django project structure to get you started
+# django-advanced
+The Most Structured & Customizable Django Project Template For Advanced Projects
